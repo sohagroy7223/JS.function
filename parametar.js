@@ -24,4 +24,11 @@ function add(a, b) {
     console.log(jog);
 }
 // call the function
-add(5, 10);
+// add(5, 10);
+
+function addall(a, b, c, d, e, f) {
+    console.log(a, b, c, d, e, f);
+    const sum = a + b + c + d + e + f;
+    console.log(sum);
+}
+addall(2, 4, 6, 8, 6);
