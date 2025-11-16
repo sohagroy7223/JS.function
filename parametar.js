@@ -31,4 +31,4 @@ function addall(a, b, c, d, e, f) {
     const sum = a + b + c + d + e + f;
     console.log(sum);
 }
-addall(2, 4, 6, 8, 6);
+addall(2, 4, 6, 8, 6, 7);
