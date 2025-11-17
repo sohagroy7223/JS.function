@@ -8,7 +8,7 @@ const fivtime = sevenTime(20);
 console.log(fivtime);
 console.log("---------------");
 const result = sevenTime(50);
-// console.log(result);
+console.log(result);
 
 function numhalf(num) {
     const half = num / 2;
