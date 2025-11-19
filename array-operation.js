@@ -31,5 +31,8 @@ function wloop(numbers) {
     return result;
 }
 const num = [2, 3, 56, 7, 9];
+const re = wloop([12, 343, 6, 67, 77]);
+console.log(re);
+console.log("------------");
 const output = wloop(num);
 console.log(output);
