@@ -1,3 +1,12 @@
+/**
+ *Objective: write a Finction to give me the some of all numbers in an array
+ *stap-1: declare a function
+ *stap-2: call check whether the function is call properly
+ *stap-3: set a parametar(s)
+ *stap-4: pas the parametar(s), check whether parametar is passed in a proper format
+ *stap-5: do the function task (stap by stap)
+ * */
+
 // function sumOfNumbers(numbers) {
 //     let sum = 0;
 //     for (const number of numbers) {
